@@ -1,0 +1,2 @@
+key "9941565e314a740a29eb510610d8ca5c6cd5b5e64bf171c24900a2535b5b5883";
+remote ipv4 "vpn3.kbu.freifunk.net" port 10042;
